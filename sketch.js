@@ -6,10 +6,10 @@ function setup() {
   createCanvas(1000,1000);
   sel = createSelect();
   sel.position(10, 10);
-  sel.option('pear');
-  sel.option('kiwi');
-  sel.option('grape');
-  sel.selected('kiwi');
+  sel.option('Asian');
+  sel.option('White');
+  sel.option('Black');
+  sel.selected('Indian');
   sel.changed(mySelectEvent);
 }
 
