@@ -5,7 +5,7 @@ function setup() {
   background(200);
   createCanvas(1000,1000);
   sel = createSelect();
-  sel.position(10, 10);
+  sel.position(width / 2, height / 2);
   sel.option('Asian');
   sel.option('White');
   sel.option('Black');
@@ -16,5 +16,4 @@ function setup() {
 function mySelectEvent() {
   let item = sel.value();
   background(200);
-  text('It is a ' + item + '!', 50, 50);
 }
