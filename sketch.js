@@ -5,7 +5,7 @@ let linkAsianLUAD;
 let linkWhiteLUAD;
 let linkIndianLUAD;
 function setup() {
-  createCanvas(3000, 1000);
+  createCanvas(1500, 1000);
     let displayWidth = height
     linkAsianBRCA = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'this is a link','_blank');
    linkAsianBRCA.position(203, 287);
@@ -61,4 +61,3 @@ function draw() {
   text('White', 50, 447)
   text('Indian', 50, 594)
 }
- 
