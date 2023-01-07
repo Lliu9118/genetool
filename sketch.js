@@ -61,3 +61,4 @@ function draw() {
   text('White', 50, 447)
   text('Indian', 50, 594)
 }
+ 
