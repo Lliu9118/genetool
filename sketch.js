@@ -18,7 +18,7 @@ function setup() {
    linkWhiteBRCA.position(203, 434);
   linkIndianBRCA = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'Click Here','_blank');
    linkIndianBRCA.position(203, 581);
-  linkAsianLUAD = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'this is a link','_blank');
+  linkAsianLUAD = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'Click Here','_blank');
    linkAsianLUAD.position(350, 287);
   linkWhiteLUAD = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'this is a link','_blank');
    linkWhiteLUAD.position(350, 434);
