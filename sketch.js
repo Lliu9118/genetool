@@ -38,7 +38,7 @@ function setup() {
   
   
   
-  linkIndianLUAD = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'this is a link','_blank');
+  linkIndianLUAD = createA('https://docs.google.com/spreadsheets/d/1QUiOCaXBLiJsvYbiWbFjqV8tyL2GPLPjThW4Zoff0tw/edit#gid=0', 'Click Here','_blank');
    linkIndianLUAD.position(350, 581);
 }
 function draw() {
